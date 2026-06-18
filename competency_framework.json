@@ -1,0 +1,21 @@
+{
+  "Software Engineer": {
+    "Junior":  ["Python", "JavaScript", "Git", "REST APIs", "SQL", "Testing"],
+    "Mid":     ["Python", "JavaScript", "Git", "REST APIs", "SQL", "Testing", "Docker", "System Design", "Code Review"],
+    "Senior":  ["Python", "JavaScript", "Git", "REST APIs", "SQL", "Testing", "Docker", "System Design", "Code Review", "Kubernetes", "CI/CD", "Mentoring"]
+  },
+  "Data Analyst": {
+    "Junior":  ["SQL", "Excel", "Python", "Statistics", "Data Visualization"],
+    "Mid":     ["SQL", "Excel", "Python", "Statistics", "Data Visualization", "Tableau", "Power BI", "Machine Learning Basics"],
+    "Senior":  ["SQL", "Excel", "Python", "Statistics", "Data Visualization", "Tableau", "Power BI", "Machine Learning Basics", "A/B Testing", "Storytelling with Data", "Leadership"]
+  },
+  "Team Lead": {
+    "Mid":     ["Python", "JavaScript", "Git", "REST APIs", "SQL", "System Design", "Leadership", "Communication", "Project Management"],
+    "Senior":  ["Python", "JavaScript", "Git", "REST APIs", "SQL", "System Design", "Leadership", "Communication", "Project Management", "Mentoring", "Strategic Thinking", "Stakeholder Management"]
+  },
+  "HR Manager": {
+    "Junior":  ["Communication", "Recruitment", "Onboarding", "HR Systems", "Employment Law Basics"],
+    "Mid":     ["Communication", "Recruitment", "Onboarding", "HR Systems", "Employment Law Basics", "Performance Management", "Conflict Resolution", "Data-Driven HR"],
+    "Senior":  ["Communication", "Recruitment", "Onboarding", "HR Systems", "Employment Law Basics", "Performance Management", "Conflict Resolution", "Data-Driven HR", "Organizational Development", "L&D Strategy", "Executive Coaching"]
+  }
+}

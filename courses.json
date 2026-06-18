@@ -1,0 +1,98 @@
+[
+  {
+    "id": "C001",
+    "title": "Python for Data Teams",
+    "skills": ["Python", "Data Visualization", "Statistics"],
+    "duration_weeks": 4,
+    "level": "Beginner",
+    "description": "Hands-on Python fundamentals for data analysts covering pandas, matplotlib, and basic statistical analysis."
+  },
+  {
+    "id": "C002",
+    "title": "Advanced SQL Mastery",
+    "skills": ["SQL", "A/B Testing"],
+    "duration_weeks": 3,
+    "level": "Intermediate",
+    "description": "Deep dive into window functions, CTEs, query optimization, and analytics patterns for data professionals."
+  },
+  {
+    "id": "C003",
+    "title": "Docker & Kubernetes for Engineers",
+    "skills": ["Docker", "Kubernetes", "CI/CD"],
+    "duration_weeks": 5,
+    "level": "Intermediate",
+    "description": "Containerization and orchestration fundamentals for software engineers moving to cloud-native development."
+  },
+  {
+    "id": "C004",
+    "title": "System Design Fundamentals",
+    "skills": ["System Design", "REST APIs"],
+    "duration_weeks": 4,
+    "level": "Intermediate",
+    "description": "Core patterns for designing scalable, reliable distributed systems including caching, load balancing, and database sharding."
+  },
+  {
+    "id": "C005",
+    "title": "Engineering Leadership Bootcamp",
+    "skills": ["Leadership", "Mentoring", "Communication", "Code Review"],
+    "duration_weeks": 6,
+    "level": "Advanced",
+    "description": "Transition from individual contributor to engineering leader: feedback frameworks, delegation, hiring, and team health."
+  },
+  {
+    "id": "C006",
+    "title": "Tableau & Power BI for Analysts",
+    "skills": ["Tableau", "Power BI", "Storytelling with Data"],
+    "duration_weeks": 3,
+    "level": "Beginner",
+    "description": "Build compelling dashboards and data narratives using industry-standard BI tools."
+  },
+  {
+    "id": "C007",
+    "title": "Machine Learning Essentials",
+    "skills": ["Machine Learning Basics", "Python", "Statistics"],
+    "duration_weeks": 6,
+    "level": "Intermediate",
+    "description": "Practical introduction to supervised learning, model evaluation, and deploying ML models in production."
+  },
+  {
+    "id": "C008",
+    "title": "Software Testing & CI/CD",
+    "skills": ["Testing", "CI/CD", "Git"],
+    "duration_weeks": 3,
+    "level": "Intermediate",
+    "description": "Unit testing, integration testing, TDD, and building automated pipelines with GitHub Actions."
+  },
+  {
+    "id": "C009",
+    "title": "Project Management for Tech Teams",
+    "skills": ["Project Management", "Strategic Thinking", "Stakeholder Management"],
+    "duration_weeks": 4,
+    "level": "Intermediate",
+    "description": "Agile, OKRs, roadmap planning and stakeholder communication for technical team leads and managers."
+  },
+  {
+    "id": "C010",
+    "title": "Data-Driven HR & L&D Strategy",
+    "skills": ["Data-Driven HR", "L&D Strategy", "Performance Management", "Organizational Development"],
+    "duration_weeks": 4,
+    "level": "Advanced",
+    "description": "Using people analytics to measure hiring quality, engagement, retention, and learning ROI."
+  },
+  {
+    "id": "C011",
+    "title": "Employment Law & HR Compliance",
+    "skills": ["Employment Law Basics", "HR Systems", "Onboarding"],
+    "duration_weeks": 2,
+    "level": "Beginner",
+    "description": "Core employment regulations, onboarding best practices, and HRIS fundamentals for early-career HR professionals."
+  },
+  {
+    "id": "C012",
+    "title": "Conflict Resolution & Coaching",
+    "skills": ["Conflict Resolution", "Executive Coaching", "Communication"],
+    "duration_weeks": 3,
+    "level": "Advanced",
+    "description": "Evidence-based frameworks for resolving workplace conflict and coaching employees through performance challenges."
+  }
+]

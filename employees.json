@@ -1,0 +1,92 @@
+[
+  {
+    "id": "E001",
+    "name": "Alice Chen",
+    "role": "Software Engineer",
+    "seniority": "Mid",
+    "department": "Engineering",
+    "current_skills": ["Python", "JavaScript", "Git", "REST APIs", "SQL"],
+    "years_experience": 3
+  },
+  {
+    "id": "E002",
+    "name": "Bob Martinez",
+    "role": "Software Engineer",
+    "seniority": "Junior",
+    "department": "Engineering",
+    "current_skills": ["Python", "HTML", "CSS"],
+    "years_experience": 1
+  },
+  {
+    "id": "E003",
+    "name": "Carol Osei",
+    "role": "Data Analyst",
+    "seniority": "Senior",
+    "department": "Analytics",
+    "current_skills": ["SQL", "Excel", "Tableau", "Python", "Statistics"],
+    "years_experience": 6
+  },
+  {
+    "id": "E004",
+    "name": "David Kim",
+    "role": "Data Analyst",
+    "seniority": "Junior",
+    "department": "Analytics",
+    "current_skills": ["Excel", "SQL"],
+    "years_experience": 1
+  },
+  {
+    "id": "E005",
+    "name": "Eva Nguyen",
+    "role": "Team Lead",
+    "seniority": "Senior",
+    "department": "Engineering",
+    "current_skills": ["Python", "JavaScript", "Git", "REST APIs", "SQL", "System Design"],
+    "years_experience": 8
+  },
+  {
+    "id": "E006",
+    "name": "Frank Adeyemi",
+    "role": "Team Lead",
+    "seniority": "Mid",
+    "department": "Analytics",
+    "current_skills": ["SQL", "Python", "Tableau", "Excel"],
+    "years_experience": 5
+  },
+  {
+    "id": "E007",
+    "name": "Grace Liu",
+    "role": "Software Engineer",
+    "seniority": "Senior",
+    "department": "Engineering",
+    "current_skills": ["Python", "JavaScript", "Git", "REST APIs", "SQL", "Docker", "Kubernetes"],
+    "years_experience": 7
+  },
+  {
+    "id": "E008",
+    "name": "Henry Patel",
+    "role": "Data Analyst",
+    "seniority": "Mid",
+    "department": "Analytics",
+    "current_skills": ["SQL", "Python", "Excel", "Power BI"],
+    "years_experience": 4
+  },
+  {
+    "id": "E009",
+    "name": "Iris Johansson",
+    "role": "HR Manager",
+    "seniority": "Senior",
+    "department": "HR",
+    "current_skills": ["Communication", "Recruitment", "Performance Management", "Excel"],
+    "years_experience": 9
+  },
+  {
+    "id": "E010",
+    "name": "James Wright",
+    "role": "HR Manager",
+    "seniority": "Junior",
+    "department": "HR",
+    "current_skills": ["Communication", "Recruitment"],
+    "years_experience": 2
+  }
+]

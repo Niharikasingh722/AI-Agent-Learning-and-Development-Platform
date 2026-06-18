@@ -1,0 +1,22 @@
+{
+  "mandatory_courses": {
+    "Software Engineer": ["C008"],
+    "Data Analyst": ["C002"],
+    "Team Lead": ["C008", "C005"],
+    "HR Manager": ["C011", "C010"]
+  },
+  "deadlines_days": {
+    "C008": 90,
+    "C002": 90,
+    "C005": 120,
+    "C011": 60,
+    "C010": 120
+  },
+  "course_names": {
+    "C008": "Software Testing & CI/CD",
+    "C002": "Advanced SQL Mastery",
+    "C005": "Engineering Leadership Bootcamp",
+    "C011": "Employment Law & HR Compliance",
+    "C010": "Data-Driven HR & L&D Strategy"
+  }
+}
